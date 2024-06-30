@@ -1,7 +1,7 @@
 # Program Evaluator / Data Scientist
-Experienced in leveraging advanced statistical methods and machine learning techniques to detect systemic inefficiencies and maximize ROI for large organizations. Skilled in leading cross-functional teams of data scientists and accountants to uncover actionable insights from vast datasets.
+Experienced in leveraging advanced statistical methods and machine learning techniques to detect systemic inefficiencies and maximize ROI for large organizations. Skilled in leading cross-functional teams of data scientists, accountants, and software engineers to uncover actionable insights from vast datasets.
 
-- Leadership: Directed a team of data scientists and accountants, fostering collaboration to analyze hundreds of millions+ of records.
+- Leadership: Directed a team of data scientists, accountants, and software engineers, fostering collaboration to analyze hundreds of millions+ of records.
 - Technical Expertise: Proficient in statistical analysis, machine learning, and data visualization to drive informed decision-making.
 - Strategic Insights: Utilized data-driven strategies to identify inefficiencies, optimize processes, and enhance organizational performance.
 - Negotiation Skills: Expert in negotiating project scope and deliverables with stakeholders to ensure alignment and successful outcomes.
