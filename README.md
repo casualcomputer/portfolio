@@ -25,8 +25,8 @@ Experienced in leveraging advanced statistical methods and machine learning tech
   - Making Your Tables Pretty with Reactable
 - **Employment and Social Development Canada (ESDC)**
   - Create Webpage Maps to Visualize and Measure User Experience Digital Journey ([GitHub](https://github.com/casualcomputer/social-network-analysis))
-- **Public Service Data Challenge (First Place Team Winner)**
+- **Public Service Data Challenge (First Place Team Winner)** [News](https://canada.governmentdatachallenge.com/shortlist-2/)
   - AgSearch (precursor to AgGPT) - An agriculture search engine using a hybrid search strategy to answer long questions and increase search relevance
   - AgGPT - An AI Chat Assistant to Help Farmers and Agri-businesses Find Resources
-- **Evaluation GenAI Committee** ([Shortlist](https://canada.governmentdatachallenge.com/shortlist-2/))
+- **Evaluation GenAI Committee** 
   - Create Organizational Maps with Text Analytics, and Deploy Local Language Models for Program Evaluations
