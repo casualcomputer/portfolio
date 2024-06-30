@@ -1,13 +1,32 @@
 # Program Evaluator / Data Scientist
+
 Experienced in leveraging advanced statistical methods and machine learning techniques to detect systemic inefficiencies and maximize ROI for large organizations. Skilled in leading cross-functional teams of data scientists, accountants, and software engineers to uncover actionable insights from vast datasets.
 
-- Leadership: Directed a team of data scientists, accountants, and software engineers, fostering collaboration to analyze hundreds of millions+ of records.
-- Technical Expertise: Proficient in statistical analysis, machine learning, and data visualization to drive informed decision-making.
-- Strategic Insights: Utilized data-driven strategies to identify inefficiencies, optimize processes, and enhance organizational performance.
-- Negotiation Skills: Expert in negotiating project scope and deliverables with stakeholders to ensure alignment and successful outcomes.
-- Consensus Building: Adept at gathering consensus among diverse teams and stakeholders to drive initiatives forward and achieve common goals.
+- **Leadership**: Directed a team of data scientists, accountants, and software engineers, fostering collaboration to analyze hundreds of millions+ of records.
+- **Technical Expertise**: Proficient in statistical analysis, machine learning, and data visualization to drive informed decision-making.
+- **Strategic Insights**: Utilized data-driven strategies to identify inefficiencies, optimize processes, and enhance organizational performance.
+- **Negotiation Skills**: Expert in negotiating project scope and deliverables with stakeholders to ensure alignment and successful outcomes.
+- **Consensus Building**: Adept at gathering consensus among diverse teams and stakeholders to drive initiatives forward and achieve common goals.
 
-### Work Experience
-Program evaluator/data scientist @ Canada Revenue Agency
-- Led the planning and execution of various program evaluations involving thousands of data elements. Developed compliance tools that identified XXX million dollars of undetected revenues, leveraging customized graph traversal algorithms and complex data pipelines.
-- Improved search functionalities for stakeholders, achieving 100X efficiency gains; developed tools to summarize large-dimensional tables for enterprise SQL servers to enhanced data accuracy and quality assurance.
+## Work Experience
+
+**Program Evaluator / Data Scientist @ Canada Revenue Agency**
+- Led the execution of geospatial analysis on behavioral data to measure engagement and enhance service.
+- Led the planning and execution of various program evaluations involving thousands of data elements. Led the development of tools that identified XXX million dollars of undetected revenues, leveraging custom graph algorithms and complex data pipelines.
+- Improved search functionalities for stakeholders, achieving 100X efficiency gains; developed tools to summarize large-dimensional tables for enterprise SQL servers to enhance data accuracy and quality assurance.
+
+## Talks
+
+- **CRA Lunch and Learn**
+  - Summarization of High-dimensional Tables on database servers ([GitHub](https://github.com/casualcomputer/sql.mechanic))
+  - Summarization of High-dimensional Tables on database servers, with RShiny Interface ([GitHub](https://github.com/casualcomputer/table-summarizer))
+  - Create Organizational Maps and Search Tools with Webscraping and Semantic Search
+- **GC Data Lunch and Learn**
+  - Making Your Tables Pretty with Reactable
+- **Employment and Social Development Canada (ESDC)**
+  - Create Webpage Maps to Visualize and Measure User Experience Digital Journey ([GitHub](https://github.com/casualcomputer/social-network-analysis))
+- **Public Service Data Challenge (First Place Team Winner)**
+  - AgSearch (precursor to AgGPT) - An agriculture search engine using a hybrid search strategy to answer long questions and increase search relevance
+  - AgGPT - An AI Chat Assistant to Help Farmers and Agri-businesses Find Resources
+- **Evaluation GenAI Committee** ([Shortlist](https://canada.governmentdatachallenge.com/shortlist-2/))
+  - Create Organizational Maps with Text Analytics, and Deploy Local Language Models for Program Evaluations
