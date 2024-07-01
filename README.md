@@ -26,7 +26,7 @@ I presented to a wide variety of audience, including analysts, managers, directo
   - Making Your Tables Pretty with Reactable
 - **Employment and Social Development Canada (ESDC)**
   - Create Webpage Maps to Visualize and Measure User Experience Digital Journey ([GitHub](https://github.com/casualcomputer/social-network-analysis))
-- **Public Service Data Challenge (First Place Team Winner)** [News](https://canada.governmentdatachallenge.com/shortlist-2/)
+- **Public Service Data Challenge (First Place Team Winner)** [News](https://www.globalgovernmentforum.com/agricultural-advice-ai-wins-canadas-public-service-data-challenge/)
   - AgSearch (precursor to AgGPT) - An agriculture search engine using a hybrid search strategy to answer long questions and increase search relevance
   - AgGPT - An AI Chat Assistant to Help Farmers and Agri-businesses Find Resources
 - **Evaluation GenAI Committee** 
