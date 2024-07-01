@@ -36,8 +36,9 @@ Experienced in leveraging advanced statistical methods and machine learning tech
 - **Python Real Estate Simulator:** Created a comprehensive real estate simulation tool in Python to pinpoint investment opportunities. The tool conducts neighborhood analysis, and performs computer appraisals (sales comparison and income approach). It also includes a payment simulation feature that forecasts cash flow changes due to interest rate fluctuations.
 - **LLM for program evaluation:** Developing a RAG-based local LLM optimized on program evaluation tasks. ([Github](https://github.com/casualcomputer/evaluation-ai))
 
-## Small Apps
+## Small Apps & Random things
 - **What is my CMA for Canada Carbon Rebate (CCR)?** Find your Census Metropolitan Areas (CMAs) by typing your address or postal code. [App](https://creative-analytics.shinyapps.io/CMA_finder/)
+- **How good was Charlie 2.0?** How good is the CRA chatbot at answering the CRA FAQ's? Find out on this [Github](https://github.com/casualcomputer/tax_chatbots).
 
 ## Tutorials
 - How to set up LLM on Google Colab (llama-cpp) ([Github](https://github.com/casualcomputer/llm_google_colab))
