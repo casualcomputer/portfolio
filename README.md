@@ -40,5 +40,5 @@ Experienced in leveraging advanced statistical methods and machine learning tech
 - **What is my CMA for Canada Carbon Rebate (CCR)?** Find your Census Metropolitan Areas (CMAs) by typing your address or postal code. [App](https://creative-analytics.shinyapps.io/CMA_finder/)
 
 ## Tutorials
-- **How to set up LLM on Google Colab (llama-cpp)** ([Github](https://github.com/casualcomputer/llm_google_colab))
-- **How to set up a local LLM and make a local inference endpoint** ([Github](https://github.com/casualcomputer/local_llm))
+- How to set up LLM on Google Colab (llama-cpp) ([Github](https://github.com/casualcomputer/llm_google_colab))
+- How to set up a local LLM and make a local inference endpoint (llama-cpp, fastAPI) ([Github](https://github.com/casualcomputer/local_llm))
