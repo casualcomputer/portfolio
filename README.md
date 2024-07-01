@@ -43,3 +43,4 @@ Experienced in leveraging advanced statistical methods and machine learning tech
 ## Tutorials
 - How to set up LLM on Google Colab (llama-cpp) ([Github](https://github.com/casualcomputer/llm_google_colab))
 - How to set up a local LLM and make a local inference endpoint (llama-cpp, fastAPI) ([Github](https://github.com/casualcomputer/local_llm))
+- Process mapping with Markov Chains. How do we model complex business process and find bottlenecks ? ([Github](https://github.com/casualcomputer/markov_chain))
