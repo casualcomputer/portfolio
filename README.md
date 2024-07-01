@@ -33,4 +33,5 @@ Experienced in leveraging advanced statistical methods and machine learning tech
 
 ## Projects
 - **Backtesting Software in R:** Developed a robust backtesting tool in R to evaluate the historical performance of various technical trading strategies and company fundamentals (stocks and options).
-- **Python Real Estate Simulator:** Created a comprehensive real estate simulation tool in Python to pinpoint investment opportunities. The tool performs neighborhood analysis, and performs computer appraisals (sales comparison and income approach). It also includes a payment simulation feature that forecasts cash flow changes due to interest rate fluctuations.
+- **Python Real Estate Simulator:** Created a comprehensive real estate simulation tool in Python to pinpoint investment opportunities. The tool conducts neighborhood analysis, and performs computer appraisals (sales comparison and income approach). It also includes a payment simulation feature that forecasts cash flow changes due to interest rate fluctuations.
+- **LLM for program evaluation:** Developing a RAG-based local LLM optimized on program evaluation tasks. ([Github](https://github.com/casualcomputer/evaluation-ai))
