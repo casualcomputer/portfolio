@@ -16,7 +16,7 @@ Experienced in leveraging advanced statistical methods and machine learning tech
 - Improved search functionalities for stakeholders, achieving 100X efficiency gains; developed tools to summarize large-dimensional tables for enterprise SQL servers to enhance data accuracy and quality assurance.
 
 ## Talks
-I presented to a wide variety of audience, including analysts, managers, directors, director generals, and C-suite executives in public serivce from Canada and the United States.
+I presented to a wide variety of audience, including analysts, managers, directors, director generals, and C-suite executives in public serivce from Canada and the United States. Below are a sample of data talks I gave:
 
 - **CRA Lunch and Learn**
   - Summarization of High-dimensional Tables on database servers ([GitHub](https://github.com/casualcomputer/sql.mechanic))
