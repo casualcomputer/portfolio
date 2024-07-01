@@ -1,5 +1,7 @@
 # Program Evaluator / Data Scientist
 
+![profile picture](https://github.com/casualcomputer/portfolio/blob/main/assets/img/28274489.jpeg)
+
 Experienced in leveraging advanced statistical methods and machine learning techniques to detect systemic inefficiencies and maximize ROI for large organizations. Skilled in leading cross-functional teams of data scientists, accountants, and software engineers to uncover actionable insights from vast datasets.
 
 - **Leadership**: Directed a team of data scientists, accountants, and software engineers, fostering collaboration to analyze hundreds of millions+ of records.
