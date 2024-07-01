@@ -30,3 +30,7 @@ Experienced in leveraging advanced statistical methods and machine learning tech
   - AgGPT - An AI Chat Assistant to Help Farmers and Agri-businesses Find Resources
 - **Evaluation GenAI Committee** 
   - Create Organizational Maps with Text Analytics, and Deploy Local Language Models for Program Evaluations
+
+## Projects
+- **Backtesting Software in R:** Developed a robust backtesting tool in R to evaluate the historical performance of various technical trading strategies and company fundamentals (stocks and options).
+- **Python Real Estate Simulator:** Created a comprehensive real estate simulation tool in Python to pinpoint investment opportunities. The tool performs neighborhood analysis, and performs computer appraisals (sales comparison and income approach). It also includes a payment simulation feature that forecasts cash flow changes due to interest rate fluctuations.
