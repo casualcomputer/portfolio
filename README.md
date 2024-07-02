@@ -40,6 +40,7 @@ I presented to a wide variety of audience, including analysts, managers, directo
 ## Small Apps & Random things
 - **What is my CMA for Canada Carbon Rebate (CCR)?** Find your Census Metropolitan Areas (CMAs) by typing your address or postal code. [App](https://creative-analytics.shinyapps.io/CMA_finder/)
 - **How good was Charlie 2.0?** How good was the CRA chatbot at answering the CRA FAQ's? Find out on this [Github](https://github.com/casualcomputer/tax_chatbots).
+- **How effective is government outreach?** I use geospatial analysis and census data to enhance understanding of social and economic dynamics for government policies. It offers a practical guide on Gender-Based Analysis Plus (GBA+) to assess the impact on vulnerable populations.
 
 ## Tutorials
 - How to set up LLM on Google Colab (llama-cpp) ([Github](https://github.com/casualcomputer/llm_google_colab))
