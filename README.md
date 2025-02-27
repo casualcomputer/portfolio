@@ -33,6 +33,7 @@ I presented to a wide variety of audience, including analysts, managers, directo
   - Create Organizational Maps with Text Analytics, and Deploy Local Language Models for Program Evaluations
 
 ## Projects
+- **Ontario Rent Contract Review**  Built a Python-based [legal compliance checker](https://apps.bigkpi.com/rent_contract_gpt/) for Ontario Form 400 rental agreements. The system analyzes lease clauses against the Residential Tenancies Act (RTA) and Ontario Standard Lease Appendix, flagging violations like illegal deposits, guest restrictions, and maintenance issues. It integrates PDF parsing and LLM-powered legal analysis with a React UI.
 - **Backtesting Software in R:** Developed a robust backtesting tool in R to evaluate the historical performance of various technical trading strategies and company fundamentals (stocks and options).
 - **Python Real Estate Simulator:** Created a comprehensive real estate simulation tool in Python to pinpoint investment opportunities. The tool conducts neighborhood analysis, and performs computer appraisals (sales comparison and income approach). It also includes a payment simulation feature that forecasts cash flow changes due to interest rate fluctuations.
 - **LLM for program evaluation:** Developing a RAG-based local LLM optimized on program evaluation tasks. ([Streamlit App](https://github.com/casualcomputer/evaluation-ai-pro))
