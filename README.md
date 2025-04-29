@@ -31,6 +31,7 @@ I presented to a wide variety of audience, including analysts, managers, directo
   - AgGPT - An AI Chat Assistant to Help Farmers and Agri-businesses Find Resources
 - **Evaluation GenAI Committee** 
   - Create Organizational Maps with Text Analytics, and Deploy Local Language Models for Program Evaluations
+  - Presented critical gaps in containerization, MLOps, and CI/CD practices to directors across departments, including the Shared Services Canada, Treasury Board Secretariat, and Global Affairs Canada, translating complex issues for both technical and non-technical audiences.
 
 ## Projects
 - **Ontario Rent Contract Review**  Built a Python-based [legal compliance checker](https://readmylease.ca/) for Ontario Form 400 rental agreements. The system analyzes lease clauses against the Residential Tenancies Act (RTA) and Ontario Standard Lease Appendix, flagging violations like illegal deposits, guest restrictions, and maintenance issues. It integrates PDF parsing and LLM-powered legal analysis with a React UI.
