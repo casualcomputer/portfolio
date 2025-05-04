@@ -8,6 +8,8 @@ Experienced in applying advanced statistical methods and machine learning to ide
 - **Negotiation Skills**: Expert in negotiating project scope and deliverables with stakeholders to ensure alignment and successful outcomes.
 - **Consensus Building**: Adept at gathering consensus among diverse teams and stakeholders to drive initiatives forward and achieve common goals.
 
+🧠 [My personal blog](https://journallearn.wordpress.com/) is live! → 📓 Follow my data journey—projects, insights, and lessons learned.
+
 ## Work Experience
 
 **Program Evaluator / Data Scientist @ Canada Revenue Agency**
