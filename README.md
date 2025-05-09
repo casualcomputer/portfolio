@@ -12,7 +12,7 @@ Experienced in applying advanced statistical methods and machine learning to ide
 
 ## Work Experience
 
-**Program Evaluator / Data Scientist @ Canada Revenue Agency**
+**Data Scientist/Program Evaluator @ Canada Revenue Agency**
 - Led the execution of geospatial analysis on behavioral data to measure engagement and enhance service.
 - Led the planning and execution of various program evaluations involving thousands of data elements. Led the development of tools that identified XXX million dollars of undetected revenues, leveraging custom graph algorithms and complex data pipelines.
 - Improved search functionalities for stakeholders, achieving 100X efficiency gains; developed tools to summarize large-dimensional tables for enterprise SQL servers to enhance data accuracy and quality assurance.
@@ -33,10 +33,10 @@ I presented to a wide variety of audience, including analysts, managers, directo
   - AgGPT - An AI Chat Assistant to Help Farmers and Agri-businesses Find Resources
 - **Evaluation GenAI Committee** 
   - Create Organizational Maps with Text Analytics, and Deploy Local Language Models for Program Evaluations
-  - Presented critical gaps in containerization, MLOps, and CI/CD practices to directors across departments, including the Shared Services Canada, Treasury Board Secretariat, and Global Affairs Canada, translating complex issues for both technical and non-technical audiences.
+  - Presented critical gaps in containerization, MLOps, and CI/CD practices to directors across departments, including the Shared Services Canada, Treasury Board Secretariat, and Global Affairs Canada, translating complex issues for both technical and non-technical audience.
 
 ## Projects
-- **Ontario Rent Contract Review:**  Developed an online compliance checker ([ReadMyLease.ca](https://readmylease.ca/)) for Ontario Form 400 rental agreements, parsing PDFs and using LLM-driven legal analysis to validate lease clauses against the Residential Tenancies Act and Ontario Standard Lease Appendix—flagging issues like unlawful deposits, guest restrictions, and maintenance lapses. I manage the full CI/CD workflow on my own Linux server, with a Next.js frontend and a Python backend.
+- **Ontario Rent Contract Review:**  Developed an online compliance checker ([ReadMyLease.ca](https://readmylease.ca/)) for Ontario Form 400 rental agreements, parsing PDFs and using LLM-driven legal analysis to validate lease clauses against the Residential Tenancies Act and Ontario Standard Lease Appendix—flagging issues like unlawful deposits, guest restrictions, and maintenance lapses. I manage the full CI/CD workflow on my own Linux server, with a Next.js frontend and a Python backend. Demo: [YouTube Link](https://www.youtube.com/shorts/nC6DSIYiUeA).
 - **Automated Invoicing System:** Developed a Streamlit-based UI with a Python backend to generate and email invoices via the Gmail API. The application reads historical data to auto-fill fields, enabling doctors to quickly create and send invoices. Deployed locally for doctors using Docker for easy distribution and environment consistency.
 - **Backtesting Software in R:** Developed a robust backtesting tool in R to evaluate the historical performance of various technical trading strategies and company fundamentals (stocks and options).
 - **Python Real Estate Simulator:** Created a comprehensive real estate simulation tool in Python to pinpoint investment opportunities. The tool conducts neighborhood analysis, and performs computer appraisals (sales comparison and income approach). It also includes a payment simulation feature that forecasts cash flow changes due to interest rate fluctuations.
