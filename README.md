@@ -26,6 +26,7 @@ I have experience supporting enterprise AI initiatives, evaluating infrastructur
 - Design enterprise AI platforms that are maintainable, scalable, and secure.
 - Translate business use cases into software, infrastructure, and deployment requirements.
 - Evaluate GPU, server, storage, networking, CUDA, ROCm, and software-stack decisions before large investments.
+- Build and run PoC workloads on target hardware to validate real performance, compatibility, and deployment fit.
 - Deploy private LLM and multimodal AI systems that keep sensitive organizational data under control.
 - Improve inference throughput, latency, hardware utilization, concurrency, and user experience.
 - Architect agentic AI platforms with governance, observability, explainability, and enterprise integration.
@@ -72,6 +73,7 @@ Advisory work can include:
 - Workload sizing for inference, training, fine-tuning, retrieval, agentic workflows, speech systems, and multimodal workloads.
 - CUDA, ROCm, driver, framework, and model-serving compatibility review.
 - Infrastructure benchmarking and performance assumptions.
+- PoC workload design and testing on target hardware before procurement or rollout.
 - Software stack and framework evaluation.
 - Architecture recommendations for cloud, on-premises, or hybrid deployments.
 - Multi-machine compute cluster setup and deployment planning.
@@ -146,6 +148,10 @@ Represent relationships across documents, systems, entities, and workflows so te
 
 Compare models, hardware, software stacks, and deployment options against practical workloads rather than relying on vendor claims alone.
 
+### PoC Workload Testing
+
+Build and run proof-of-concept AI workloads on target hardware so teams can validate throughput, latency, compatibility, utilization, and operational fit before procurement or production rollout.
+
 ## Why Work With Me
 
 - Enterprise AI architecture experience.
@@ -155,6 +161,7 @@ Compare models, hardware, software stacks, and deployment options against practi
 - Government and enterprise delivery context, including CRA experience and work with other federal organizations.
 - First-place Public Service Data Challenge GenAI chatbot experience.
 - AI procurement support.
+- PoC workload testing on target hardware.
 - Public LLM hardware benchmarking and visualization.
 - Performance engineering and inference optimization.
 - Open-source engineering.

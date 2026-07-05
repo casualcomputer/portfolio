@@ -10,6 +10,7 @@ Henry Luan helps organizations translate AI business needs into software archite
 
 - Enterprise AI infrastructure assessment
 - GPU procurement review and workload sizing
+- PoC workload testing on target hardware
 - CUDA, ROCm, driver, framework, and model-serving compatibility
 - Compute cluster setup for multi-machine AI deployments
 - Private LLM deployment and local AI systems
@@ -30,6 +31,7 @@ Henry Luan helps organizations translate AI business needs into software archite
 - Enterprise RAG strategy
 - Knowledge graph design
 - AI benchmarking
+- PoC workload testing
 
 ## Public Evidence
 
