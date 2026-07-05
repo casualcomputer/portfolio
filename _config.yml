@@ -5,9 +5,6 @@ lang: en-CA
 logo: /assets/img/28274489.jpeg
 #show_downloads: true
 google_analytics: G-HDR1406TH4
-theme: jekyll-theme-minimal
-plugins:
-  - jekyll-seo-tag
 author:
   name: Henry Luan
   email: info@sonarwave.org
