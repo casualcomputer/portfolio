@@ -1,6 +1,19 @@
 title: Henry Luan
-description: Henry Luan helps organizations translate AI business needs into software architecture, GPU infrastructure, CUDA/ROCm compatibility, compute clusters, private LLM deployments, LLM hardware benchmarking, government AI systems, and inference optimization.
+description: Enterprise AI infrastructure consultant for GPU procurement, private LLMs, agentic AI, CUDA/ROCm, compute clusters, and inference optimization.
+url: https://www.bigkpi.com
+lang: en-CA
 logo: /assets/img/28274489.jpeg
 #show_downloads: true
 google_analytics: G-HDR1406TH4
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag
+author:
+  name: Henry Luan
+  email: info@sonarwave.org
+  url: https://www.bigkpi.com/
+social:
+  name: Henry Luan
+  links:
+    - https://github.com/casualcomputer
+    - https://journallearn.wordpress.com/

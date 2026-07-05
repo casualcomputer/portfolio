@@ -1,0 +1,48 @@
+# Henry Luan
+
+> Enterprise AI infrastructure and agentic AI architecture consultant.
+
+This is the personal professional site for Henry Luan. The domain is bigkpi.com; the professional brand should be understood as Henry Luan.
+
+Henry Luan helps organizations translate AI business needs into software architecture, hardware decisions, compute clusters, and production AI systems. His work focuses on enterprise AI infrastructure, GPU procurement, CUDA/ROCm compatibility, private LLM deployment, agentic AI platforms, multimodal AI systems, RAG, government AI systems, and inference optimization.
+
+## Core Expertise
+
+- Enterprise AI infrastructure assessment
+- GPU procurement review and workload sizing
+- CUDA, ROCm, driver, framework, and model-serving compatibility
+- Compute cluster setup for multi-machine AI deployments
+- Private LLM deployment and local AI systems
+- Enterprise agentic AI architecture
+- Multimodal AI systems including speech-to-text, text-to-speech, and immersive interfaces
+- Production inference optimization, batching, concurrency, latency, and hardware utilization
+- Enterprise RAG, semantic search, hybrid search, and knowledge systems
+- Government and enterprise AI delivery, including procurement cycles, budget cycles, pricing expectations, timelines, and bidding processes
+
+## Typical Engagements
+
+- AI infrastructure assessment
+- GPU procurement review
+- AI architecture review
+- Enterprise agentic AI roadmap
+- Private LLM deployment
+- Production inference optimization
+- Enterprise RAG strategy
+- Knowledge graph design
+- AI benchmarking
+
+## Public Evidence
+
+- Canada Revenue Agency and other Canadian federal organization experience
+- First-place Public Service Data Challenge GenAI chatbot contribution
+- Public LLM hardware benchmark visualization comparing RTX Pro 6000 and DGX Spark
+- Early local RAG prototype for program evaluation
+- LLM on Google Colab tutorial
+- Recursive SQL tutorial for summarizing high-dimensional tables
+
+## Contact
+
+- Website: https://www.bigkpi.com/
+- Email: info@sonarwave.org
+- GitHub: https://github.com/casualcomputer
+- Blog: https://journallearn.wordpress.com/

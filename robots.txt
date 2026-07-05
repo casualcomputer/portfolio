@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
+# AI assistant summary: https://www.bigkpi.com/llms.txt
 Sitemap: https://www.bigkpi.com/sitemap.xml
