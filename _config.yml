@@ -1,5 +1,6 @@
 title: Henry Luan
+description: Henry Luan helps organizations translate AI business needs into software architecture, GPU infrastructure, CUDA/ROCm compatibility, compute clusters, private LLM deployments, LLM hardware benchmarking, government AI systems, and inference optimization.
 logo: /assets/img/28274489.jpeg
 #show_downloads: true
-google_analytics: G-HFZYZH74LT
+google_analytics: G-HDR1406TH4
 theme: jekyll-theme-minimal
