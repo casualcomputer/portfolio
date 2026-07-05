@@ -1,0 +1,164 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background: #f6f8fb;
+  color: #26313d;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 17px;
+  line-height: 1.62;
+}
+
+a {
+  color: #1769aa;
+  text-decoration: none;
+}
+
+a:hover,
+a:focus {
+  text-decoration: underline;
+}
+
+.site-shell {
+  width: min(1120px, calc(100% - 48px));
+  margin: 0 auto;
+  padding: 48px 0 72px;
+}
+
+.site-hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 180px;
+  gap: 36px;
+  align-items: center;
+  padding: 34px 0 42px;
+  border-bottom: 1px solid #dce3ea;
+}
+
+.eyebrow {
+  margin: 0 0 10px;
+  color: #657381;
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.site-hero h1 {
+  margin: 0;
+  color: #17212b;
+  font-size: clamp(42px, 7vw, 72px);
+  line-height: 0.95;
+}
+
+.summary {
+  max-width: 760px;
+  margin: 22px 0 0;
+  color: #4c5966;
+  font-size: 20px;
+  line-height: 1.5;
+}
+
+.hero-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 24px;
+}
+
+.hero-links a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 40px;
+  padding: 8px 14px;
+  border: 1px solid #c8d4df;
+  border-radius: 6px;
+  background: #fff;
+  color: #1b5f97;
+  font-weight: 700;
+}
+
+.portrait {
+  width: 180px;
+  height: 180px;
+  border-radius: 10px;
+  object-fit: cover;
+  box-shadow: 0 10px 30px rgba(21, 32, 43, 0.12);
+}
+
+.content {
+  max-width: 860px;
+  padding-top: 36px;
+}
+
+.content > h1:first-child {
+  display: none;
+}
+
+.content h2 {
+  margin: 44px 0 14px;
+  color: #17212b;
+  font-size: 30px;
+  line-height: 1.18;
+}
+
+.content h3 {
+  margin: 30px 0 10px;
+  color: #1f2b36;
+  font-size: 22px;
+  line-height: 1.25;
+}
+
+.content p {
+  margin: 0 0 18px;
+}
+
+.content ul {
+  margin: 0 0 22px 24px;
+  padding: 0;
+}
+
+.content li {
+  margin: 8px 0;
+}
+
+.content strong {
+  color: #17212b;
+}
+
+@media (max-width: 760px) {
+  body {
+    font-size: 16px;
+  }
+
+  .site-shell {
+    width: min(100% - 28px, 680px);
+    padding: 24px 0 56px;
+  }
+
+  .site-hero {
+    grid-template-columns: 1fr;
+    gap: 22px;
+    padding: 22px 0 30px;
+  }
+
+  .portrait {
+    width: 120px;
+    height: 120px;
+    grid-row: 1;
+  }
+
+  .summary {
+    font-size: 18px;
+  }
+
+  .hero-links a {
+    flex: 1 1 auto;
+    justify-content: center;
+  }
+}

@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'en' }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+    <meta name="description" content="{{ site.description | escape }}">
+    <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}">
+    <meta property="og:title" content="{{ site.title }}">
+    <meta property="og:description" content="{{ site.description | escape }}">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ site.url }}{{ page.url | replace:'index.html','' }}">
+    <meta property="og:image" content="{{ site.url }}{{ site.logo }}">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="{{ site.title }}">
+    <meta name="twitter:description" content="{{ site.description | escape }}">
+    <meta name="twitter:image" content="{{ site.url }}{{ site.logo }}">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    {% include head-custom.html %}
+    {% include google-analytics.html %}
+  </head>
+  <body>
+    <div class="site-shell">
+      <header class="site-hero">
+        <div class="hero-copy">
+          <p class="eyebrow">Enterprise AI Infrastructure Consultant</p>
+          <h1>{{ site.title }}</h1>
+          <p class="summary">{{ site.description }}</p>
+          <nav class="hero-links" aria-label="Primary">
+            <a href="#contact">Contact</a>
+            <a href="#typical-engagements">Engagements</a>
+            <a href="#selected-technical-work">Technical Work</a>
+          </nav>
+        </div>
+        <img src="{{ site.logo | relative_url }}" alt="Henry Luan" class="portrait">
+      </header>
+      <main class="content">
+        {{ content }}
+      </main>
+    </div>
+  </body>
+</html>

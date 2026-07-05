@@ -1,3 +1,8 @@
+---
+layout: default
+title: Enterprise AI Infrastructure Consultant
+---
+
 # Henry Luan
 
 Enterprise AI Infrastructure & Agentic AI Architecture Consultant
